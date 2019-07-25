@@ -1,0 +1,57 @@
+.main
+{
+    text-align: center;
+    display: flex;
+    flex-direction: row-reverse;
+    // background: blanchedalmond;
+    // border: 1px solid red;
+}
+.main-style
+{
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+    border-radius: 5rem 0 0 0 ;
+    // margin-left:1.0rem;
+    // margin-right: 2.0rem;
+    margin: 2.2rem 0  0 1.0rem;
+    padding: 1.0rem 0 0 1.0rem;
+}
+.circle
+{
+    margin: 0;
+    height: 5.0rem;
+    width:9.0rem;
+    border-radius: 5rem 0 0 5rem;
+    background: black;
+}
+.circle-bottom
+{
+    // border: 1px solid red;
+    height: 5.0rem;
+    width:4.0rem;
+    border-radius: 0rem 5rem 0 0;
+    background: black;
+    margin-bottom:0;
+}
+.main-list
+{
+    // border: 1px solid red;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+.project_menu
+{
+    background: red;
+}
+
+
+
+
+
+
+
+
+
+

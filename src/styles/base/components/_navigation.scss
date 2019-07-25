@@ -1,0 +1,32 @@
+.navigation
+{
+    margin: 0;
+    padding:0;
+    // border: 1px solid white;
+    display: flex;
+    justify-content: flex-end;
+    background: black;
+    height: 3.5rem;
+}
+.navigation__container
+{
+    display: flex;
+    align-items: center;
+    // border: 1px solid red;
+}
+.navigation-list__item 
+{
+    color: white;
+    font-size:1.2rem;
+    padding: .5rem;
+}
+
+.navigation-list__item:hover
+{
+    background: red;
+    border-bottom: 1px solid gold;
+}
+a
+{
+    text-decoration: none;
+}

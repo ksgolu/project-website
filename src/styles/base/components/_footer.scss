@@ -1,0 +1,53 @@
+
+.footer-link
+{
+    margin: 0;
+    height: 3.5rem;
+    background: darken($color: #20222b, $amount: 5);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.footer-link__icon
+{
+   
+    // border: 1px solid red;
+}
+.fab
+{
+    text-decoration: none;
+    justify-items: center;
+    color: white;
+    font-size: 2.0em;
+    margin: 0 1.0rem ;
+}
+.fab:hover
+{
+    color:red;
+}
+
+.footer-details
+{
+    text-align: center;
+    margin: 0;
+    // height: 5.0rem;
+    background: #20222b;
+    // line-height: 2.5rem;
+}
+.footer-details h1, p
+{
+    margin:0;
+    color:white;
+    padding: 0.5rem;
+}
+.footer-details h1 
+{
+    font-size: 1.2rem;
+    text-decoration: underline;
+}
+
+.footer-details p
+{
+    font-size: 1.0rem;
+}
