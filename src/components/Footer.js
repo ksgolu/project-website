@@ -6,7 +6,7 @@ const Footer = () =>
        
         <article className='footer-link'>
             <article className='footer-link__icon'>
-            <a href='https://github.com/ksgolu/'><i class="fab fa-github"></i></a>
+            <a href='https://github.com/ksgolu?tab=repositories'><i class="fab fa-github"></i></a>
             <a href='https://www.linkedin.com/in/kumar-satyam-profile/'><i class="fab fa-linkedin"></i></a>
             {/* <a href=''><i class="fab fa-facebook-square"></i></a> */}
             </article>

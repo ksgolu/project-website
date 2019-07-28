@@ -56,8 +56,15 @@ class App extends React.Component
       {
         title:'This website',
         subtitle:'know more about this website on git hub',
-        git:'www.github.com/ksgolu',
+        git:'https://github.com/ksgolu?tab=repositories',
         technology:['React']
+        // preview:'link'
+      }
+      {
+        title:'Comming Soon',
+        subtitle:'Some of the awesome project are on way',
+        git:'https://github.com/ksgolu?tab=repositories',
+        technology:['Next project On:','React','Firebase']
         // preview:'link'
       }
     ];
