@@ -59,7 +59,7 @@ class App extends React.Component
         git:'https://github.com/ksgolu?tab=repositories',
         technology:['React']
         // preview:'link'
-      }
+      },
       {
         title:'Comming Soon',
         subtitle:'Some of the awesome project are on way',
